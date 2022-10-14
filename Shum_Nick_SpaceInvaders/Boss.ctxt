@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=move
+comment1.target=Boss(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ drawBoss()
+comment4.params=
+comment4.target=boolean\ isTouchingProjectile()
+comment5.params=maximum\ minimum
+comment5.target=int\ randomInt(int,\ int)
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EnemyLarge
+comment1.params=row\ move
+comment1.target=EnemyLarge(int,\ boolean)
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ drawEnemyLarge()
+comment5.params=
+comment5.target=int\ getDir()
+comment6.params=
+comment6.target=void\ changeDir()
+comment7.params=maximum\ minimum
+comment7.target=int\ randomInt(int,\ int)
+comment8.params=
+comment8.target=boolean\ isTouchingProjectile()
+numComments=9

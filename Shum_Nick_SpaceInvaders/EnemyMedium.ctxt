@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EnemyMedium
+comment1.params=row\ move
+comment1.target=EnemyMedium(int,\ boolean)
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ drawEnemyMedium()
+numComments=3
